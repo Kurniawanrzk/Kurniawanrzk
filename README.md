@@ -1,4 +1,4 @@
-<h1 align="center">Sup 👋, I'm Rizky</h1>
+<h1 align="center">Sup 👋, I'm Kurniawan Rizky</h1>
 <h3 align="center">A passionate developer from indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurniawanrzk&label=Profile%20views&color=0e75b6&style=flat" alt="kurniawanrzk" /> </p>
